@@ -1,0 +1,1 @@
+print("This script fot test porpose")
